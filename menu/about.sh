@@ -1,7 +1,7 @@
 #!/bin/bash
 #About this script
 clear
-echo -e "\e[34;5m    ==={}==={}  Script Credit by Potato  {}==={}==="
+echo -e "\e[34;5m    ==={}==={}  Lunoxx Impostor  {}==={}==="
 echo -e ""
 echo -e ""
 echo -e "\e[37;5m☛,  Script ini saya buat hasil dari 40% sample-"
@@ -15,9 +15,9 @@ echo -e ""
 echo -e ""
           echo -e "        ---------------------------------------"
           echo -e "             Terimakasih sudah menggunakan-"
-          echo -e "                Script Credit by Potato"
+          echo -e "                Lunoxx Impostor"
           echo -e "        ---------------------------------------"
 echo -e "\e[34;5m"
-echo -e "    ==={}==={} My Bot  : t.me/iniapayaBot {}==={}==="
-echo -e "    ==={}==={} My Tele : t.me/aldi_nc     {}==={}==="
+echo -e "    ==={}==={} My Bot  : t.me/proffrose_bot {}==={}==="
+echo -e "    ==={}==={} My Tele : t.me/lunoxximpostor     {}==={}==="
 echo -e "\e[37;5m"
