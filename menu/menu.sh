@@ -2,7 +2,7 @@
 #Menu Section
 clear
 echo -e ""
-echo -e "\e[31;5m+ -- --=[  Credit by babang boy  ]=-- -- +"
+echo -e "\e[31;5m+ -- --=[  Lunoxx Impostor  ]=-- -- +"
 
 echo -e ""
 echo -e ""
